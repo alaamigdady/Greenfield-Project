@@ -1,1 +1,6 @@
 component.js
+
+
+//////////
+//some comments
+//////////
